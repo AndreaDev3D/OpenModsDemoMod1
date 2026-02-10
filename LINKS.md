@@ -1,0 +1,3 @@
+- [icon:language] [Website](https://openmods.net)
+- [icon:chat_bubble] [Discord](https://discord.gg/openmods)
+- [icon:volunteer_activism] [Support](https://ko-fi.com/andread3d)
