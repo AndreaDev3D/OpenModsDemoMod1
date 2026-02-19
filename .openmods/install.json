@@ -1,0 +1,8 @@
+{
+    // path where all the file in the mod will be installed
+    "path": "",
+    // custom path for each file in the mod will be installed
+    "custom-path": {
+        "": ""
+    }
+}
