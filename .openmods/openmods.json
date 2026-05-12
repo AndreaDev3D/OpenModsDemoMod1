@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "thumbnail": "https://raw.githubusercontent.com/AndreaDev3D/OpenModsDemoMod1/main/.openmods/media/demo-img-4.png",
+  "links": [
+    {
+      "label": "Website",
+      "icon": "language",
+      "url": "https://openmods.net"
+    },
+    {
+      "label": "Discord",
+      "icon": "forum",
+      "url": "https://discord.gg/openmods"
+    },
+    {
+      "label": "Documentation",
+      "icon": "menu_book",
+      "url": "https://openmods.net/docs"
+    },
+    {
+      "label": "Report a Bug",
+      "icon": "bug_report",
+      "url": "https://github.com/AndreaDev3D/OpenModsDemoMod1/issues/new"
+    },
+    {
+      "label": "Support the Dev",
+      "icon": "volunteer_activism",
+      "url": "https://ko-fi.com/andreadev3d"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/OpenModsDemoMod1/main/.openmods/media/demo-img-1.png",
+      "label": "gameplay-1"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/OpenModsDemoMod1/main/.openmods/media/demo-img-2.png",
+      "label": "gameplay-2"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/OpenModsDemoMod1/main/.openmods/media/demo-img-3.png",
+      "label": "gameplay-3"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/OpenModsDemoMod1/main/.openmods/media/demo-img-4.png",
+      "label": "hero-shot"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do I install this mod?",
+      "answer": "Download the latest release from the sidebar and place the contents of the zip file into your game\u0027s \u0060BepInEx/plugins\u0060 folder."
+    },
+    {
+      "question": "Is this compatible with multiplayer?",
+      "answer": "Yes! This mod is designed to work seamlessly in multiplayer sessions. However, **all players** must have the mod installed to avoid sync issues."
+    },
+    {
+      "question": "Can I include this in my modpack?",
+      "answer": "Absolutely. We encourage modpack creators to include our work. A credit link back to this OpenMods page is appreciated but not required."
+    },
+    {
+      "question": "I found a bug! Where can I report it?",
+      "answer": "Please use the **\u0022Report a Bug\u0022** button in the Links section to open an issue on our GitHub repository."
+    },
+    {
+      "question": "Does this mod work on Linux or macOS?",
+      "answer": "Yes, as long as you are using the appropriate version of BepInEx for your platform, the mod should function correctly."
+    }
+  ],
+  "install": {
+    "path": "BepInEx/plugins",
+    "custom-path": {}
+  },
+  "dependencies": {
+    "v1.0": [
+      {
+        "modId": 30,
+        "release": "1.0.0-pre.48"
+      }
+    ]
+  }
+}
